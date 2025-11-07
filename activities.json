@@ -1,0 +1,161 @@
+[
+  {
+    "timestamp": "2025-11-07 12:02:15",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:02:15"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:08:29",
+    "type": "signup",
+    "user": "Nongryan",
+    "description": "New teacher account created: Nongryan",
+    "details": {
+      "role": "teacher"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:08:48",
+    "type": "login",
+    "user": "Nongryan",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "teacher",
+      "last_login": "2025-11-07 12:08:48"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:09:53",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:09:53"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:15:13",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:15:13"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:16:16",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:16:16"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:31:03",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:31:03"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:40:12",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:40:12"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:48:52",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:48:52"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:51:31",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:51:31"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:53:04",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:53:04"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:54:25",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 12:54:25"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:55:17",
+    "type": "download",
+    "user": "administrator",
+    "description": "Initiated download of clustering results as CSV",
+    "details": {
+      "file_type": "CSV",
+      "records": 1062
+    }
+  },
+  {
+    "timestamp": "2025-11-07 12:56:39",
+    "type": "download",
+    "user": "administrator",
+    "description": "Initiated download of clustering results as CSV",
+    "details": {
+      "file_type": "CSV",
+      "records": 1062
+    }
+  },
+  {
+    "timestamp": "2025-11-07 13:26:05",
+    "type": "login",
+    "user": "administrator",
+    "description": "User logged in successfully",
+    "details": {
+      "role": "admin",
+      "last_login": "2025-11-07 13:26:05"
+    }
+  },
+  {
+    "timestamp": "2025-11-07 13:26:32",
+    "type": "assessment",
+    "user": "administrator",
+    "description": "Submitted self-assessment",
+    "details": {
+      "domains_assessed": 13,
+      "total_ratings": 65
+    }
+  }
+]
